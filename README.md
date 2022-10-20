@@ -41,6 +41,6 @@ Consegue visualizar o layout do projeto através [deste link](https://www.figma.
 
 ## 📃 Licença
 
-Esse projeto está sob a licença MIT.
+Este projeto está sob a licença MIT.
 
 ---
